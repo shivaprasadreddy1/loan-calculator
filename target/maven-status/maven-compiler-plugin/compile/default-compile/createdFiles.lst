@@ -1,0 +1,11 @@
+com/jgb/loancalculator/service/Crasher.class
+com/jgb/loancalculator/http/CrashController.class
+com/jgb/loancalculator/http/ReturnValue$1.class
+com/jgb/loancalculator/http/ReturnValue$Builder.class
+com/jgb/loancalculator/service/PaymentCalculator.class
+com/jgb/loancalculator/DemoApplication.class
+com/jgb/loancalculator/service/CounterService.class
+com/jgb/loancalculator/http/ResetCountController.class
+com/jgb/loancalculator/service/CounterServiceInMemory.class
+com/jgb/loancalculator/http/ReturnValue.class
+com/jgb/loancalculator/http/PaymentController.class
