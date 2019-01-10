@@ -1,0 +1,7 @@
+applications:
+- name: loan-calculator
+  host: loan-calculator
+  memory: 1G
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  path: target/loan-calculator-1.0.jar
+
